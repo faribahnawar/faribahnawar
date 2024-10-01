@@ -13,3 +13,11 @@ I'm a student attending SAIT and learning how to become a UX designer.
 2. Adobe Illustrator/Photoshop
 3. Using HTML, CSS & JavaScript in VSC
 4. Managing code with GitHub
+
+## Contact
+- Email: Faribah.Nawar@edu.sait.ca
+- Github Profile: https://github.com/faribahnawar
+
+### Profile Image Credit
+This image was created with Picrew’s “salad iconmaker“!!  https://picrew.me/share?cd=MeTueGgfsO
+
